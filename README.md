@@ -1,1 +1,2 @@
 # Parkinson-s-disease-prediction
+Developed predictive models for Parkinson disease. Performed pre-processing and cleaning of dataset to handle missing values,outlier detection, categorical features and scaling of features.Tested various classification models namely Logistic Regression, SVC, Random Forest classifier and KNN ,achieving accuracy of 83.92%, 81.47%, 84.67% and 76.18% respectively. Applied Grid Search technique to optimize HyperParameters which resulted in a notable 96% accuracy rate with SVC.
